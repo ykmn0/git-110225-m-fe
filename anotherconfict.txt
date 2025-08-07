@@ -1,1 +1,1 @@
-Hello from conflict2
+Hello new from conflict
