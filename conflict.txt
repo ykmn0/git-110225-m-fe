@@ -1,1 +1,1 @@
-Text from conflict
+From branch conflict2
