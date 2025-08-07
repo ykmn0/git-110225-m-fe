@@ -1,1 +1,1 @@
-From branch conflict2
+From not deleted file branch conflict2
