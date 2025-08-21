@@ -1,0 +1,19 @@
+:root {
+  
+  /* Переменные для футера */
+  --color-bg: #f7f7f7;
+  --color-txt-black: #222;
+  --color-txt-muted: #777;
+  --color-cards: #fff;
+  --radius-big: 16px;
+}
+
+/* Тёмная тема */
+[data-theme='dark'] {
+  --color-bg: #242424;
+  --color-txt-black: #fff;
+  --color-txt-muted: #aaa;
+  --color-cards: #2f2f2f;
+}
+
+
